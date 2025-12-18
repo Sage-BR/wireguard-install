@@ -8,9 +8,9 @@
 WireGuard is a point-to-point VPN that can be used in different ways. Here, we mean a VPN as in: the client will forward all its traffic through an encrypted tunnel to the server.
 The server will apply NAT to the client's traffic so it will appear as if the client is browsing the web with the server's IP.
 
-The script supports both IPv4 and IPv6. Please check the [issues](https://github.com/angristan/wireguard-install/issues) for ongoing development, bugs and planned features! You might also want to check the [discussions](https://github.com/angristan/wireguard-install/discussions) for help.
+The script supports both IPv4 and IPv6. Please check the [issues](https://github.com/Sage-BR/wireguard-install/issues) for ongoing development, bugs and planned features! You might also want to check the [discussions](https://github.com/Sage-BR/wireguard-install/discussions) for help.
 
-WireGuard does not fit your environment? Check out [openvpn-install](https://github.com/angristan/openvpn-install).
+WireGuard does not fit your environment? Check out [openvpn-install](https://github.com/Sage-BR/openvpn-install).
 
 ## Requirements
 
@@ -31,7 +31,7 @@ Supported distributions:
 Download and execute the script. Answer the questions asked by the script and it will take care of the rest.
 
 ```bash
-curl -O https://raw.githubusercontent.com/angristan/wireguard-install/master/wireguard-install.sh
+curl -O https://raw.githubusercontent.com/Sage-BR/wireguard-install/master/wireguard-install.sh
 chmod +x wireguard-install.sh
 ./wireguard-install.sh
 ```
@@ -66,8 +66,8 @@ You can [say thanks](https://saythanks.io/to/angristan) if you want!
 
 ## Credits & Licence
 
-This project is under the [MIT Licence](https://raw.githubusercontent.com/angristan/wireguard-install/master/LICENSE)
+This project is under the [MIT Licence](https://raw.githubusercontent.com/Sage-BR/wireguard-install/master/LICENSE)
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=angristan/wireguard-install&type=Date)](https://star-history.com/#angristan/wireguard-install&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Sage-BR/wireguard-install&type=Date)](https://star-history.com/#Sage-BR/wireguard-install&Date)
